@@ -1,5 +1,5 @@
-a = int(input("Enter first number sir/madam: "))
-b = int(input("Enter second number sir/madam: "))
+a = int(input("Enter first number customer: "))
+b = int(input("Enter second number customer: "))
 
 print("Sum:", a + b)
 print("Difference:", a - b)
